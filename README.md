@@ -27,6 +27,6 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40" height="40" /></a>  </p> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kovmak&show_icons=true&title_color=404040&text_color=ffffff&bg_color=030303&locale=en&layout=compact" alt="kovmak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kovmak&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=404040&locale=en&layout=compact" alt="kovmak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kovmak&show_icons=true&title_color=404040&text_color=ffffff&bg_color=050505&hide_border=true&locale=en" alt="kovmak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kovmak&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=404040&hide_border=true&locale=en" alt="kovmak" /></p>
