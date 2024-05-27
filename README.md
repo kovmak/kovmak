@@ -39,5 +39,5 @@
 
 <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=kovmak&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=404040&locale=en&layout=compact" alt="kovmak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kovmak&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=404040&locale=en&layout=compact" alt="kovmak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovmak&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=404040&locale=en&layout=compact" alt="kovmak" /></p>
 
