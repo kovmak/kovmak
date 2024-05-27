@@ -30,3 +30,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kovmak&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=404040&locale=en&layout=compact" alt="kovmak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kovmak&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=404040&hide_border=true&locale=en" alt="kovmak" /></p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=kovmak&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
