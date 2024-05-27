@@ -10,6 +10,7 @@
 - ⚡ I mainly design for apps and websites
 
 - 📫 How to reach me **E-mail: [kovmak15@gmail.com](mailto:kovmak15@gmail.com) [c.kovrei.maksym@student.uzhnu.edu.ua](mailto:c.kovrei.maksym@student.uzhnu.edu.ua)**
+
 ---
 
 <h3 align="left">🛠️ : Languages and Tools :</h3>
@@ -26,10 +27,14 @@
   <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" title="Figma" alt="Figma" width="40" height="40" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kovmak&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=404040&locale=en&layout=compact" alt="kovmak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kovmak&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=404040&hide_border=true&locale=en" alt="kovmak" /></p>
+---
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=kovmak&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kovmak&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=404040&locale=en&layout=compact" alt="kovmak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kovmak&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=404040&hide_border=true&locale=en" alt="kovmak" /></p>
