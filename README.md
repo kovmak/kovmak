@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Krnelx or Maksym.</h2>
+<h2 align="center">Hi 👋, I'm Kovmak, Krnelx or Maksym.</h2>
 <h3 align="center">A designer and coder from Ukraine 👨‍💻 I've been studying since 2020 🚀 </h3>
 
 - 🌱 I’m currently learning **C#, JS, Java and AI.**
