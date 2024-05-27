@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋, I'm Kovmak, Krnelx or Maksym.</h2>
+<h1>
+  hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+### 👨‍💻 About Me :
 <h3 align="center">A designer and coder from Ukraine 👨‍💻 I've been studying since 2020 🚀 </h3>
 
 - 🌱 I’m currently learning **C#, JS, Java and AI.**
@@ -7,12 +11,7 @@
 
 - 📫 How to reach me **E-mail: [kovmak15@gmail.com](mailto:kovmak15@gmail.com) [c.kovrei.maksym@student.uzhnu.edu.ua](mailto:c.kovrei.maksym@student.uzhnu.edu.ua)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/krnelx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krnelx" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ : Languages and Tools :</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
@@ -34,7 +33,3 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=kovmak&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
